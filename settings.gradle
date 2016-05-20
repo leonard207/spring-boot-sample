@@ -1,0 +1,3 @@
+rootProject.name = 'spring-boot-sample'
+include 'spring-boot-shiro'
+
