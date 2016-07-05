@@ -1,0 +1,12 @@
+spring:
+  cache:
+    type: REDIS
+  redis:
+    host: 127.0.0.1
+    port: 6379
+
+server:
+  port: 80
+  undertow:
+    io-threads: 4
+    worker-threads:  20
