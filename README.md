@@ -7,4 +7,4 @@
 ## 开发环境
 
 * Java 1.8
-* Gradle 2.x
+* Gradle 3.x
